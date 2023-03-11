@@ -1,11 +1,4 @@
 @font-face {
-	font-family: "Gilroy";
-	font-style: normal;
-	font-weight: 400;
-	src: url("./font/Gilroy-Regular.woff2") format("woff2"), url("./font/Gilroy-Regular.woff") format("woff");
-}
-
-@font-face {
 	font-family: "Comfortaa";
 	font-style: normal;
 	font-weight: 700;
@@ -26,7 +19,6 @@ body {
 	display: flex;
 	flex-direction: column;
 	min-height: 100vh;
-	font-family: "Gilroy", sans-serif;
 	color: #364243;
 	background: #f8f8f8;
 	overflow-x: hidden;
